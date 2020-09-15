@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+
+blog/_pycache_
+personal_portfolio/_pycache_
+portfolio/_pycache_
+
+db.sqllite3
+Venv/
+_pycache_/
+local_settings.py
+/static/
