@@ -1,8 +1,0 @@
-*.log
-*.pot
-*.pyc
-
-Venv
-_pycache_/
-local_settings.py
-/static/
